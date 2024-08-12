@@ -50,7 +50,6 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
-
 /* Adiciona transição suave aos botões */
 button {
     background-color: var(--cor-secundaria);
